@@ -1,0 +1,11 @@
+main.exe
+*.bak
+*_obf.bat
+__pycache__
+somalifuscatorv2.log
+src_paid
+test_all.bat
+fun_stuff/
+settings.json
+.venv
+save/*
