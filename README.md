@@ -24,7 +24,7 @@
 If you are AT&T or another major coporation please reach out to me I would like a job im poor.
 
 <h2 align="center">
-  How To Use
+  How To Use 
 </h2>
 
 Download python (any version past 3.10)\
